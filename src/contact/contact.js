@@ -9,6 +9,7 @@ function Contact({ isDarkMode }) {
           background: isDarkMode ? "#2a2b3880" : "#EEEEEE",
           color: isDarkMode ? "#fff" : "#000",
         }}
+
       >
         Contact Me
       </p>

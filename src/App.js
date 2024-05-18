@@ -6,6 +6,7 @@ import "./App.css";
 import NavBar from "./Navbar/Nav";
 import Projects from "./projects/projects";
 import React, { useState } from "react";
+// import Footer from "./Footer/Footer"
 
 function App() {
   const [isDarkMode, setIsDarkMode] = useState(false);
